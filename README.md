@@ -134,13 +134,21 @@ Business transformations were applied to prepare datasets for analytics and repo
 
 The layered transformation approach improves data quality, governance, maintainability, and analytical reliability.
 
-📷 **Attach Screenshots**
 
-* Databricks Workspace
-* Cluster Configuration
-* Bronze to Silver Notebook
-* Silver to Gold Notebook
-* Transformation Results
+
+Databricks Workspace
+<img width="1666" height="957" alt="1000193898" src="https://github.com/user-attachments/assets/e9b2f690-f7e2-4496-ba1d-00de8f310f4e" />
+
+Service Principle
+<img width="1666" height="826" alt="1000193899" src="https://github.com/user-attachments/assets/e3defef7-f0e8-4e7b-b7c0-65c1fcbe3b18" />
+
+Bronze to Silver Notebook Writing data
+<img width="1902" height="607" alt="1000193900" src="https://github.com/user-attachments/assets/b6b0530a-2987-4780-b80d-03d13a60feb9" />
+
+
+Transformation Results
+<img width="1603" height="815" alt="1000193901" src="https://github.com/user-attachments/assets/a476bdff-9cb4-4fc7-9d1d-4b886cbb06af" />
+
 
 ---
 
