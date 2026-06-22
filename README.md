@@ -86,7 +86,8 @@ Dynamic Pipeline Configuration
 Successful Pipeline Run
 
 <img width="1591" height="915" alt="1000193882" src="https://github.com/user-attachments/assets/fde74c63-afa1-43aa-859b-03165e459d37" />
-<img width="1593" height="783" alt="image" src="https://github.com/user-attachments/assets/602d5bac-16b4-4dc8-b207-cfb9f72de7ac" />
+Data Ingestion
+img width="1593" height="783" alt="image" src="https://github.com/user-attachments/assets/602d5bac-16b4-4dc8-b207-cfb9f72de7ac" />
 
 
 ---
