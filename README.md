@@ -114,21 +114,7 @@ The raw data was validated, cleaned, and standardized.
 
 Business transformations were applied to prepare datasets for analytics and reporting.
 
-### Activities Performed
 
-* Derived column creation
-* Business logic implementation
-* Aggregations
-* Analytical data modeling
-* Dataset optimization
-
-### Key Highlights
-
-* Distributed processing using Apache Spark.
-* Scalable transformation framework.
-* PySpark DataFrame operations.
-* Medallion Architecture implementation.
-* Optimized storage using Parquet format.
 
 ### Business Value
 
