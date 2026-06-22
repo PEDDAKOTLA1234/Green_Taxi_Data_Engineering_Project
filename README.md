@@ -195,11 +195,7 @@ Security and access management were implemented using Azure-native services.
 * Access control and governance.
 * Secure service connectivity.
 
-📷 **Attach Screenshots**
 
-* Azure Key Vault
-* Secret Configuration
-* Access Policies
 
 ---
 
@@ -220,50 +216,6 @@ The solution supports automated execution and monitoring capabilities through Az
 * Trigger Configuration
 * Monitoring Dashboard
 * Successful Pipeline Execution
-
----
-
-# Skills Demonstrated
-
-### Azure Services
-
-* Azure Data Factory
-* Azure Data Lake Storage Gen2
-* Azure Databricks
-* Azure Key Vault
-* Microsoft Entra ID
-
-### Data Engineering Concepts
-
-* Medallion Architecture
-* Dynamic Data Pipelines
-* Parameterized Pipelines
-* Metadata-Driven ETL
-* Data Ingestion
-* Data Transformation
-* Data Validation
-* Delta Lake
-* ACID Transactions
-* Data Versioning
-* Time Travel
-* Pipeline Automation
-
-### Programming
-
-* Python
-* PySpark
-* SQL
-
----
-
-# Future Enhancements
-
-* Power BI integration for reporting and visualization.
-* Incremental data loading.
-* CI/CD implementation using Azure DevOps.
-* Data quality monitoring framework.
-* Real-time streaming ingestion.
-* Azure Synapse Analytics integration.
 
 ---
 
