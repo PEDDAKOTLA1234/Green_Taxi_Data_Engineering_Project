@@ -169,13 +169,16 @@ Delta Lake enhances traditional data lake architectures by adding transactional 
 
 Delta Lake enables enterprise-grade reliability while maintaining the flexibility and scalability of a modern data lake architecture.
 
-📷 **Attach Screenshots**
 
-* Delta Table Creation
-* Delta Log Structure
-* Delta Version History
-* Time Travel Query Results
-* Gold Layer Storage
+Delta Table Creation
+<img width="1874" height="284" alt="1000193902" src="https://github.com/user-attachments/assets/0b38b007-0e6e-44c6-a1fa-c380974c93ca" />
+<img width="1600" height="787" alt="1000193903" src="https://github.com/user-attachments/assets/f883df9e-c269-4196-ae4b-f2737a6eb83e" />
+
+Delta Version History
+<img width="1884" height="549" alt="1000193904" src="https://github.com/user-attachments/assets/796b61d4-0bbb-4cce-9111-4910b98afcd1" />
+
+Gold Layer Storage
+<img width="1914" height="590" alt="1000193905" src="https://github.com/user-attachments/assets/9f239d16-3a06-4380-9212-3adadfcc0c67" />
 
 ---
 
@@ -188,34 +191,14 @@ Security and access management were implemented using Azure-native services.
 * Microsoft Entra ID
 * Azure Key Vault
 
-### Security Features
-
-* Secure authentication and authorization.
-* Secret management through Key Vault.
-* Access control and governance.
-* Secure service connectivity.
-
-
-
 ---
 
 # Pipeline Automation and Monitoring
 
 The solution supports automated execution and monitoring capabilities through Azure Data Factory.
 
-### Features
 
-* Scheduled pipeline execution.
-* On-demand execution.
-* Pipeline monitoring.
-* Logging and troubleshooting.
-* Automated orchestration.
 
-📷 **Attach Screenshots**
-
-* Trigger Configuration
-* Monitoring Dashboard
-* Successful Pipeline Execution
 
 ---
 
